@@ -1,8 +1,8 @@
 Package.describe({
   name: 'leonli:kouto-swiss',
-  version: '0.0.2',
+  version: '1.0.0',
   // Brief, one-line summary of the package.
-  summary: 'add kouto-swiss support to the meteor world... A complete CSS framework for Stylus',
+  summary: 'A complete CSS framework for Stylus, now supporting Meteor world.',
   // URL to the Git repository containing the source code for this package.
   git: 'https://github.com/leonli/meteor-kouto-swiss',
   // By default, Meteor will default to using README.md for documentation.
